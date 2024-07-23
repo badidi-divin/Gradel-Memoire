@@ -1,0 +1,1 @@
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | ce site a été developpé <i class="fa fa-heart" aria-hidden="true"></i> by <a onclick="return confirm('Developpeur Divin BADIDI Whatshap : +243 817767357 divinbadidi081@gmail.com - Facebook: Divin BADIDI')" class="btn btn-outline-primary" target="_blank">MIBATELA</a>
